@@ -1,0 +1,13 @@
+#title {
+    color: red;
+    text-align: center;
+}
+/* # = ID . = CLASS*/
+
+.inputs {
+    border: 1px solid;
+}
+
+.baseboard {
+    border: 1px solid;
+}
