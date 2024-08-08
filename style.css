@@ -11,3 +11,15 @@
 .baseboard {
     border: 1px solid;
 }
+/* Modificando o body inteiro*/
+body { 
+    font-family: arial,sans-serif;
+    background-color: #f4f4f4;
+    margin: 0; /*Serve para retirar as margens laterias e preeencher toda a pagina*/
+    padding: 0; /*Remove qualquer espaçamento no body*/
+    display: flex; /*Ativando o modelo Flexbox*/
+    flex-direction: column; /*Faz com que os elementos sejam dispostos em uma coluna, ou seja, um embaixo do outro, ao invés de lado a lado*/
+    align-items: center;
+    justify-content: center; /*Controla o alinhamento dos itens flexíveis ao longo do eixo principal e centraliza os elementos na vertical, alinhando-os ao centro em relação à altura da tela.*/
+    height: 100vh; /*ignifica 100% da altura da viewport (a janela de visualização do navegador). Isso garante que o body ocupe toda a altura da tela, permitindo que o conteúdo dentro dele seja perfeitamente centralizado, tanto vertical quanto horizontalmente.*/
+}
