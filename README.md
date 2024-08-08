@@ -1,6 +1,10 @@
-# Programação web 4º semestre
-Repositorio da materia de programação web do 4 semestre com o professor Airton
+# Programação Web - 4º Semestre
 
-#  Aula 1 
-## Apresentando e revisando git.
-Configurando o editor de texto VsCode e revisando os comandos git git config --global user.name PedroDelgo git config --global user.email pedrodelg.go@gmail.com
+Este repositório contém os materiais e exercícios da disciplina de **Programação Web** do 4º semestre, ministrada pelo Professor Airton. O objetivo é acompanhar as aulas e desenvolver habilidades práticas em programação web.
+## Aula 1 - Apresentando e revisando Git
+Na primeira aula, revisamos conceitos fundamentais do Git e configuramos o ambiente de desenvolvimento.
+
+### Tópicos abordados:
+- Introdução ao Git e controle de versão.
+- Configuração do editor de texto VSCode.
+- Comandos básicos do Git:
