@@ -4,6 +4,10 @@ botaoSubmeter.addEventListener("click",submeter); //criando um evento ao clicar 
 
 function submeter (){ //função que vai ser usado quando o evento acontecer no caso ao clicar o botao
     let elementoNome = document.getElementById("nome").value; //aqui ele ira colocar o valor submetido nessa variavel o input esta la no html
+    let elementoIdade = document.getElementById("idade").value;
+    let elementoCPF = document.getElementById("cpf").value;
     console.log(elementoNome); //o console ira printar o nome inserido
+    console.log(elementoIdade);
+    console.log(elementoCPF);
 }
 
