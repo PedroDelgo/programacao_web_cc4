@@ -11,3 +11,4 @@ function submeter (){ //função que vai ser usado quando o evento acontecer no 
     console.log(elementoCPF);
 }
 
+// TO DO coloar validação de emial no codigo so aceitar email validos
